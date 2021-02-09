@@ -1,0 +1,11 @@
+{
+    "login": {
+        "type": "KazBot",
+        "date": "Life",
+        "token": "TOKEN"
+    },
+    "bot": { 
+        "owner": "ID OWNER",
+         "version": "Beta (v0.9)"
+    }
+}
